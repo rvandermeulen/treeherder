@@ -100,6 +100,7 @@ export const thPlatformMap = {
   'macosx1500-64': 'macOS 15 AArch64',
   'macosx1500-aarch64': 'macOS 15 AArch64',
   'macosx1500-aarch64-shippable': 'macOS 15 AArch64 Shippable',
+  'macosx1500-aarch64-devedition': 'macOS 15 AArch64 DevEdition',
   macosx64: 'macOS',
   osx: 'macOS',
   'macosx64-shippable': 'macOS Shippable',
